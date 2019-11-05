@@ -1,7 +1,7 @@
 var expect = require('chai').expect;
 
 describe('dumb-test', function () {
-  it('should always be ok', function () {
+  it('should always be ok dude', function () {
     var x = 1;
     var y = 1;
     var dumb_result = 2;
